@@ -1,7 +1,11 @@
 This is an example. 
 
+<<<<<<< HEAD:firstexample.txt
 This is a new line.
 
 another change. 
 
 extra content
+=======
+This is a new line.
+>>>>>>> parent of 04a4082 (another line of code):example.txt
